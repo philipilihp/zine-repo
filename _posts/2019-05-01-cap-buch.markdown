@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Polaroid Williamsburg"
-date: 2017-10-23
+title: "CAP"
+date: 2019-05-01
 description: 
 image: /assets/zines/cap-buch.JPG
 author: CAP
 tags: 
-  - Dummy Text
-  - Moon Drinking
-  - Kale
+  - CAP
 ---
